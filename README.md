@@ -1,12 +1,5 @@
-# CGAProject
-Dies ist das Template-Projekt für die Abschlussprojekte im Modul "Computergrafik und Animation" an der TH Köln.
-
-Bitte nutzen Sie dieses Template-Repository ("Use this template") und entwickeln Sie Ihr Abschlussprojekt mit dieser Vorlage. Denken Sie daran *fabianfriederichs*, *jm-th-koeln* und *oberberg* (Prof. Horst Stenzel) als Collaborators hinzuzufügen, damit wir darauf zugreifen können.
-
-Löschen Sie als erstes den Abschnitt CGAProjekt in dieser Datei und füllen Sie den Rest entsprechend aus für die Abgabe.
-
 # Projektname
-Little World
+OurPlanet
 
 # Teammitglieder
 Listen Sie hier alle Teammitglieder auf.
