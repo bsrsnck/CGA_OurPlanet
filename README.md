@@ -6,13 +6,13 @@ Bitte nutzen Sie dieses Template-Repository ("Use this template") und entwickeln
 Löschen Sie als erstes den Abschnitt CGAProjekt in dieser Datei und füllen Sie den Rest entsprechend aus für die Abgabe.
 
 # Projektname
-Fügen Sie ihren Projektnamen hinzu
+Little World
 
 # Teammitglieder
 Listen Sie hier alle Teammitglieder auf.
-- Armin Anfang
-- Berta Beliebig
-- Carola Coautor
+- Büsra Sancak
+- Hilal Murat
+- Christian Msamba Mbengi
 
 # Featureliste
 Listen Sie hier alle relevanten Features als Liste mit sinnvoller Reihenfolge auf mit Angabe wer das Feature implementiert hat.
