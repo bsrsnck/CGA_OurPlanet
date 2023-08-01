@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lwjgl-assimp-natives-macos">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-release-3.3.1-custom/lwjgl-assimp-natives-macos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
